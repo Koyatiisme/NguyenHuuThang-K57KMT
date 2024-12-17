@@ -1,0 +1,9 @@
+const firebaseConfig = {
+  apiKey: "AIzaSyBT6hsnuEz43H_Yzd611VZYR2IsXX0-tu0",
+  authDomain: "huuthang-21t01.firebaseapp.com",
+  databaseURL: "https://huuthang-21t01-default-rtdb.firebaseio.com",
+  projectId: "huuthang-21t01",
+  storageBucket: "huuthang-21t01.firebasestorage.app",
+  messagingSenderId: "842173351798",
+  appId: "1:842173351798:web:7356bff3715ed5d5629c57"
+};

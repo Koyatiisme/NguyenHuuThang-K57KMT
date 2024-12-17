@@ -1,0 +1,5 @@
+CREATE TABLE temperature_data (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    temperature REAL,
+    timestamp DATETIME DEFAULT CURRENT_TIMESTAMP
+);
